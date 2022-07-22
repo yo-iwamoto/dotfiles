@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@vue/cli": "^4.5.13",
+    "blitz": "^0.39.0",
+    "create-frourio-app": "^0.28.2",
+    "create-gatsby": "^2.5.1",
+    "create-gatsby-app": "^0.0.0",
+    "create-next": "^0.1.4",
+    "create-next-app": "^12.0.8",
+    "create-nuxt-app": "^3.7.1",
+    "create-react-app": "^5.0.0",
+    "create-redwood-app": "^2.0.0",
+    "create-slidev": "^0.27.10",
+    "create-strapi-app": "^4.1.2",
+    "create-svelte": "^2.0.0-next.78",
+    "create-vite": "^2.7.2",
+    "vercel": "^23.1.2"
+  }
+}
